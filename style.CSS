@@ -1,0 +1,142 @@
+body {font-family: 'Montserrat', sans-serif;}
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;}
+body {background-color:  #bdb9b9cb;
+padding-left: 20px;
+padding-right:20px;
+padding-bottom:40px;
+padding-top:40px}
+.wrapper {background:#ffff;
+display: flex;
+max-width: 1200px;
+margin:o auto;
+box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);}
+.sidebar {background:#1e2939;
+    width: 370px;
+padding-top: 40px;
+padding-bottom: 40px;}
+.my-photo {width: 370px;}
+.about-me-conteiner {padding-top: 110px;
+padding-bottom: 110px;
+padding-right: 90px;
+padding-left:90px}
+.contacts {margin-top: 30px;
+margin-left: 40px;
+margin-right:40px}
+.contacts-title{font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;}
+.contacts-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+color:#ffff}
+.contacts-link-type{width: 14px;
+    height: 24px;
+    font-weight: 700;
+    color: #ffffff;
+margin-right: 10px;}
+.Tech-skills-conteiner-title {margin-top: 20px;font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+margin-left: 40px;
+margin-bottom: 20px}
+.Tech-skills-conteiner-item {margin-left: 50px;
+      color: #ffffff;}
+.Soft-skills-title {margin-top:20px;   font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;margin-left: 40px;
+    margin-bottom:20px;font-size:22px;}
+.Soft-skills-item{margin-left: 50px;color:#ffffff}
+.My-position{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom:23px}
+.My-name{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;}
+.description{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 24px;}
+.my-info{
+    margin-bottom: 65px;}
+.project-name{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px}
+.project-link{
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;}
+.specialization{
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;}
+.project-item{
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+margin-left: 17px}
+.projects-conteiner{
+margin-bottom: 55px;
+}
+.work-experience-title{    
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px}
+.Profession-title{
+color: #000000;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+margin-top: 8px;
+margin-bottom: 15px;}
+.profession-company{
+color:#ff6b08;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;}
+.profession-period{color: #a8a8a8;
+font-family: Montserrat;
+font-size: 12px;
+font-weight: 400;
+line-height: 24px;
+margin-bottom: 14px;}
+.devide{color:#000000}
+.profession-duties{
+    margin-top: 14px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 30px}
+.university-name{
+    color: #ff6b08;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px}
+.specialization-name{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #000000;}
